@@ -16,7 +16,6 @@ export const questionsData: QuestionsData = {
   P1: [
     // Dán dữ liệu P1 vào đây
       {
-      {
     id: 1,
     question: 'Trong việc phân cấp chăm sóc người bệnh, điều dưỡng cần phải lưu ý điều gì khi phân chia các bệnh nhân?',
     answer: 'Đáp án C: Phân cấp chăm sóc dựa trên tình trạng sức khỏe và mức độ nghiêm trọng của bệnh',
