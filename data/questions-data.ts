@@ -1530,18 +1530,11 @@ export const questionsData: QuestionsData = {
     answer: 'Đáp án D: Cả A, B, C đúng',
   },
 
-  {
-    id: 250,
-    question: 'Cách giải thích phù hợp khi người nhà thắc mắc về việc đo nước tiểu của NB suy tim:',
-    answer: 'Đáp án B: "Người bệnh suy tim sung huyết phải được theo dõi chặt chẽ lượng nước tiểu để Bác sĩ làm căn cứ điều chỉnh thuốc lợi tiểu cho bác ấy, vì bệnh suy tim thường gây ứ dịch."',
-  },
-
-  {
-    id: 250,
-    question: 'Tình huống Người nhà của một người bệnh nam, 70 tuổi, đang nằm viện vì suy tim sung huyết, lo lắng khi thấy điều dưỡng thường xuyên theo dõi lượng nước tiểu của người bệnh và hỏi: "Tại sao các cô cứ phải đo nước tiểu của bác ấy nhiều lần vậy? Có vấn đề gì nghiêm trọng không?". Cách giải thích nào của điều dưỡng là phù hợp và chuyên nghiệp nhất trong tình huống này?',
-    answer: 'Đáp án B: "Người bệnh suy tim sung huyết phải được theo dõi chặt chẽ lượng nước tiểu để Bác sĩ làm căn cứ điều chỉnh thuốc lợi tiểu cho bác ấy, vì bệnh suy tim thường gây ứ dịch."',
-  },
-
+{
+  id: 250,
+  question: 'Tình huống Người nhà của một người bệnh nam, 70 tuổi, đang nằm viện vì suy tim sung huyết, lo lắng khi thấy điều dưỡng thường xuyên theo dõi lượng nước tiểu của người bệnh và hỏi: "Tại sao các cô cứ phải đo nước tiểu của bác ấy nhiều lần vậy? Có vấn đề gì nghiêm trọng không?". Cách giải thích nào của điều dưỡng là phù hợp và chuyên nghiệp nhất trong tình huống này?',
+  answer: 'Đáp án B: Người bệnh suy tim sung huyết phải được theo dõi chặt chẽ lượng nước tiểu để Bác sĩ làm căn cứ điều chỉnh thuốc lợi tiểu cho bác ấy, vì bệnh suy tim thường gây ứ dịch.',
+},
   {
     id: 251,
     question: 'Nguyên tắc vô khuẩn trong truyền dịch an toàn là:',
